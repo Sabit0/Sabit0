@@ -6,3 +6,4 @@
 
 ## Skills
  <img src='https://raw.githubusercontent.com/Sabit0/Sabit0/master/skills/python.png' height='42px'/>
+ <img src='https://github.com/Sabit0/Sabit0/blob/main/skills/png-clipart-javascript-open-logo-number-js-angle-text.png' height='42px'/>
